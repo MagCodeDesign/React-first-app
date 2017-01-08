@@ -17,6 +17,10 @@ h1 {
     margin-bottom: -25px;
 }
 
+.box {
+    border: 1px solid #000;
+}
+
 .wrap-hello {
     padding-bottom: 50px;
 }
